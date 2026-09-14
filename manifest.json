@@ -1,0 +1,12 @@
+{
+  "name": "X juros",
+  "short_name": "X juros",
+  "start_url": "./x-juros.html",
+  "display": "standalone",
+  "background_color": "#EEF6F1",
+  "theme_color": "#0B2E29",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
